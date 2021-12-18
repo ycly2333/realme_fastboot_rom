@@ -13,12 +13,12 @@
 
 *请勿在fastbootd模式（有图形界面）下刷入，否则会出现部分底层分区无法刷入的情况*
 
+![fastboot](fastboot.png)
+
 ### fastboot进入方法（不适用于变砖后卡第一屏的情况）
 - 方法①：连接手机，输入adb命令：adb reboot bootloader
 
 - 方法②：关机并等待15秒，长按电源键和音量-，出现震动后松手
-
-![fastboot](fastboot.png)
 
 ## 校验码
 
