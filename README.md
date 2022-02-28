@@ -7,6 +7,8 @@
 
 **本线刷包遵循CC BY-NC-SA 4.0协议**
 
+![qq](realme_ycly.png)
+
 > 注意：使用此线刷包前，请务必解锁Bootloader
 
 *请务必在fastboot模式（只有几行英文）下刷入。*
